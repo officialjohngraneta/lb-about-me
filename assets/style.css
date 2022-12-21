@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background: wheat;
+
+}
+
+div {
+    background: green;
+    border-style: solid;
+}
+p {
+    color: white;
+}
+.yellow-text {
+    color: lightblue;
+}
+
+
+#food-list {
+    font-size: 40px;
+    color: white
+}
